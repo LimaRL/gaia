@@ -1,6 +1,7 @@
 {
   "name": "gaia",
   "version": "0.1.0",
+  "description": "Gaia tinha uma forma fixa, estável, ao contrário do Caos. Sobre o imenso corpo fértil de Gaia, os elementos antes em confusão começaram a se organizar, ocupando cada um seu lugar correto. Fogo, terra, água e ar destilaram-se uns dos outros. Os elementos libertavam-se do confuso abraço mútuo. E as curvas generosas de Gaia iam dando origem a colinas suaves, vales profundos, montes e montanhas.",
   "private": true,
   "dependencies": {
     "react": "^16.10.2",
